@@ -1,0 +1,3 @@
+org/owasp/webgoat/plugin/Salaries.class
+org/owasp/webgoat/plugin/ClientSideFilteringAssignment.class
+org/owasp/webgoat/plugin/ClientSideFiltering.class

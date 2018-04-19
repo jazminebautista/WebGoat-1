@@ -1,0 +1,4 @@
+org/owasp/webgoat/plugin/challenge1/Assignment1Test.class
+org/owasp/webgoat/plugin/challenge2/ShopEndpointTest.class
+org/owasp/webgoat/plugin/challenge4/VotesEndpointTest.class
+org/owasp/webgoat/plugin/challenge2/Assignment2Test.class

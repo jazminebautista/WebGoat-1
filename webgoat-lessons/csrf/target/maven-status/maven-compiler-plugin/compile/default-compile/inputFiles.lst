@@ -1,0 +1,8 @@
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/plugin/Review.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/plugin/CSRFGetFlag.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/plugin/CSRF.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/plugin/ForgedReviews.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/plugin/CSRFConfirmFlag1.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/plugin/CSRFLogin.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/plugin/CSRFFeedback.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/plugin/CSRFGetXhrFlag.java

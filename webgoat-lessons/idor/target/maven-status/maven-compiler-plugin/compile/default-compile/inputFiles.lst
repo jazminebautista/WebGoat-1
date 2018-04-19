@@ -1,0 +1,9 @@
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/plugin/IDORViewOwnProfile.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/plugin/IDORLogin.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/plugin/IDORViewOtherProfile.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/plugin/IDORDiffAttributes.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/plugin/UserProfile.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/plugin/IDORViewOwnProfileAltUrl.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/plugin/IDOR.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/plugin/ViewOtherUserProfile.java
+/Users/jeechung/Documents/GitHub/WebGoat-1/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/plugin/IDOREditOtherProfiile.java
